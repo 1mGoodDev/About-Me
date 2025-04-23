@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi there, I'm Nursulthon Ismail!<br>🌱 I’m a passionate Full-Stack Developer from Malang, Indonesia.<br>🎓 Currently studying at Politeknik IDN and growing my skills in web & mobile development.<br>💡 I love turning creative ideas into responsive and user-friendly websites.<br>🛠️ Tech stack: Laravel | Filament | Tailwind | Flutter<br>🚀 Always exploring new technologies and improving every single day.
 
 
